@@ -1,0 +1,120 @@
+*
+{
+    font-family: cursive;
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color: rgb(55, 190, 190);
+    padding: 15px;
+    font-size: 20px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.navbar a{
+    margin-left: 10px;
+}
+body{
+    margin: 0%;
+}
+.float-right
+{
+    float: right;
+}
+.btn
+{
+    padding: 3px 10px 5px 10px;
+}
+.btn-primary
+{
+    background-color: rgb(45, 97, 218);
+}
+.btn-warning
+{
+  background-color: rgb(246, 246, 16);
+}
+.mt-1px 
+{
+    margin-top: 1px;
+}
+.row
+{
+    display: flex;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.col-2
+{
+    width: 50%;
+}
+.col-3
+{
+    width: 33.33%;
+}
+.col-4
+{
+    width: 25%;
+}
+.mt-10px
+{
+    margin-top: 10px;
+}
+.card
+{
+    border: 1px solid rgb(202, 198, 198);
+    padding: 10px;
+    margin: 10px;
+}
+.text-center
+{
+    text-align: center;
+    padding: 20px;
+}
+.card img{
+    width: 100px;
+    height: 100px;
+}
+.card{
+    text-align: center;
+}
+.card a{
+    color: cadetblue;
+}
+.card p{
+    color: rgb(107, 106, 106);
+    text-align: justify;
+}
+.text-justify
+{
+    text-align: justify;
+}
+.foot-1
+{
+    color: rgb(48, 48, 190);
+}
+footer
+{
+    background-color: forestgreen;
+}
+.p-5
+{
+    padding: 30px;
+    background-color: rgb(28,65,60,0.472);
+}
+.p-4
+{
+    padding: 30px;
+}
+.border
+{
+    border: 2px solid gray;
+    padding: 30px;
+    background-color: aliceblue;
+}
+.sub
+{
+    text-align: center;
+    margin: 35px;
+}
